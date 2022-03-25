@@ -1,0 +1,85 @@
+#encabezado {
+    font-size: 35px;
+}
+
+#descripcion {
+    font-size:20px;
+    text-align:center;
+}
+
+#destacado {
+    color:red;
+    font-size:45px;
+    text-align:center;
+}
+#servicios {
+    font-size:50px;
+    line-height: 3;
+    text-align:center;
+}
+
+#contenedor_principal{
+    width:100%;
+    height:100%;
+    position:relative;
+    text-align:center;
+    }
+    .contenedor_imagen_texto{
+    width:33%;
+    height:33%;
+    position:relative;
+    display:inline-block;
+    vertical-align:top;
+    overflow:hidden;
+    margin:auto;
+    margin-bottom:100px;
+    }
+    .imagen, .texto{
+        width:100%;
+        height:auto;
+        position:relative;
+        display:inline;
+        text-align:center;
+        }
+        
+    .texto{
+    height:33%;
+    text-align:center;
+    }
+
+#redes_sociales {
+    width:100%;
+    height:100%;
+    position:relative;
+    text-align:center;
+}
+
+    .imagen_red_social{
+        position:relative;
+        display:inline-block;
+        vertical-align:top;
+        overflow:hidden;
+        margin:0 10px;
+        }
+
+#direccion {
+    margin:0 10px;
+}
+        
+#caja { 
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: #ffffff; 
+    text-decoration: none;
+    font-size: 18px; 
+    font-weight: 400; 
+    text-align: center; 
+    background: #889ccf; 
+    margin: 0 0 25px; 
+    overflow: hidden; 
+    padding: 10px; 
+    border-radius: 35px 0px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 2px solid #5878ca;}
+
+
